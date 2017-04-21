@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">T型学院</string>
+    <string name="app_desc">专业IT知识</string>
+    <string name="app_qaa">问答</string>
+    <string name="app_book">小书</string>
+    <string name="app_offer">工作</string>
+    <string name="app_job">职场</string>
+    <string name="app_book_desc">
+        共分为4个部分。第一个部分是基础知识；第二部分是如何掌握RN；第三部分是工程实践方案；第四部分是架构探索和实战。编著：王利华，曹立成，江清清，翟一帆，朱阳俊
+    </string>
+    <string name="app_book_name">
+        [小书] React Native 应用开发指南
+    </string>
+</resources>
